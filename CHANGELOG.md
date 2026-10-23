@@ -2,6 +2,13 @@
 
 Alle wijzigingen in PointPlay per versie, de nieuwste bovenaan.
 
+## 0.9.2 (23 oktober 2026)
+
+- Staat er al een beloning "Song request" die PointPlay eerder zelf maakte, dan gebruikt PointPlay die gewoon weer. Is hij van een andere app, dan legt PointPlay uit wat je moet doen.
+- Lukt het instellen van de beloning niet, dan blijven alerts en de chatcommando's toch werken.
+- Ga met de muis over de Twitch-knop bovenaan om te zien wat er aan de hand is. Bij een probleem wordt de stip rood, en een klik opent de details.
+- Foutmeldingen van Twitch staan nu onder Instellingen → Twitch, met uitleg en de foutcode.
+
 ## 0.9.1 (23 oktober 2026)
 
 - Changelog toegevoegd: klap hem open onder Instellingen → Info.
