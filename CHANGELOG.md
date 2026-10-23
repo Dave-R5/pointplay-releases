@@ -2,6 +2,12 @@
 
 Alle wijzigingen in PointPlay per versie, de nieuwste bovenaan.
 
+## 0.9.1 (23 oktober 2026)
+
+- Changelog toegevoegd: klap hem open onder Instellingen → Info.
+- `!volgende` speelt meteen het volgende verzoek uit de wachtrij, in plaats van het volgende Spotify-nummer.
+- Opnieuw inloggen bij Twitch werkt meteen: `!weiger` en `!volgende` doen het zonder PointPlay te herstarten.
+
 ## 0.9.0 (23 oktober 2026)
 
 - De ingebouwde speler werkt: PointPlay is nu ondertekend via castLabs, zodat Spotify in de app zelf afspeelt.
