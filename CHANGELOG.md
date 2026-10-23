@@ -1,0 +1,55 @@
+# Changelog
+
+Alle wijzigingen in PointPlay per versie, de nieuwste bovenaan.
+
+## 0.9.0 (23 oktober 2026)
+
+- De ingebouwde speler werkt: PointPlay is nu ondertekend via castLabs, zodat Spotify in de app zelf afspeelt.
+- PointPlay speelt alleen nog af in de app zelf, nooit op een ander apparaat zoals je tv of telefoon.
+- Nummers starten met één klik: een play-knop op de hoes en een klikbare titel die groen wordt bij hover.
+- De knop om een nummer aan de wachtrij toe te voegen is groter en wordt groen bij hover. De losse play-knop achteraan is weg.
+- Verzoeken krijgen een nummer (bijv. 🎵 #12) en er komt een "Nu:"-melding in de chat als een verzoek begint.
+- Mods en de streamer kunnen `!weiger <nummer> [reden]` en `!volgende` (of `!skip`) in de chat gebruiken. Log na de update één keer opnieuw in bij Twitch.
+- Klaar voor de verzoekjes-kolom in R5 ModHub.
+- Als afspelen mislukt, laat PointPlay de reden van Spotify zien.
+- De tijdbalk springt niet meer terug.
+- Het icoon van de installer klopt nu.
+
+## 0.8.4 (23 oktober 2026)
+
+- Minder verzoeken naar Spotify, zodat de melding "API rate limit exceeded" niet meer verschijnt. Bij een limiet wacht PointPlay netjes af.
+- Uitleg over muziek op je stream en een disclaimer onder Instellingen → Info. De disclaimer staat ook in de installer.
+
+## 0.8.3 (23 oktober 2026)
+
+- De volumebalk volgt de schuif en het volume verandert direct.
+
+## 0.8.2 (23 oktober 2026)
+
+- Overlay alerts: plaatjes en gifjes toevoegen van je pc of via een link.
+
+## 0.8.1 (23 oktober 2026)
+
+- Het PointPlay-icoon staat nu ook in de taakbalk.
+
+## 0.8.0 (23 oktober 2026)
+
+- Het definitieve logo in de app, het venster en de installer, met R5Mod onder de naam.
+
+## 0.7.1 (23 oktober 2026)
+
+- Nieuwe tab Info in de instellingen: versie, updates, auteur en een contactformulier.
+
+## 0.7.0 (23 oktober 2026)
+
+- Point Alerts: online geluiden zoeken via Freesound of een link plakken.
+
+## 0.6.0 (23 oktober 2026)
+
+- PointPlay werkt zichzelf bij: updates verschijnen in de app.
+- Alerts als compacte balken met een bewerk-venster.
+- Versie en buildnummer zichtbaar in de instellingen.
+
+## 0.5.0 (23 oktober 2026)
+
+- Eerste versie van de suite: Point Muziek (verzoeken via kanaalpunten naar Spotify), Point Alerts (geluiden bij kanaalpunten) en Overlay alerts voor OBS.
