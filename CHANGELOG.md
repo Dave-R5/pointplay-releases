@@ -2,6 +2,12 @@
 
 Alle wijzigingen in PointPlay per versie, de nieuwste bovenaan.
 
+## 0.9.3 (24 oktober 2026)
+
+- De volgende-knop in PointPlay speelt eerst het volgende verzoek uit de wachtrij, net als `!volgende`.
+- Typen in de zoekbalk en in andere tekstvelden lukt weer. Na een "Weet je het zeker?"-vraag raakte PointPlay soms het toetsenbord kwijt. Die vragen zijn nu PointPlay-vensters.
+- Het alert-venster sluit niet meer als je tekst selecteert en de muis buiten het venster loslaat. Alleen een echte klik naast het venster sluit het.
+
 ## 0.9.2 (23 oktober 2026)
 
 - Staat er al een beloning "Song request" die PointPlay eerder zelf maakte, dan gebruikt PointPlay die gewoon weer. Is hij van een andere app, dan legt PointPlay uit wat je moet doen.
