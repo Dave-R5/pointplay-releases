@@ -2,7 +2,7 @@
 
 **Song requests via Twitch-kanaalpunten, rechtstreeks in Spotify.** Plus geluids-alerts en overlay-alerts voor OBS, alles in één Windows-app. Gemaakt door R5Mod.
 
-**[⬇ Download de nieuwste versie](https://github.com/Dave-R5/pointplay-releases/releases/latest)** · [Changelog](CHANGELOG.md)
+**[⬇ Download de nieuwste versie](https://github.com/Dave-R5/pointplay-releases/releases/latest)** · [Website](https://pointplay.r5mod.nl) · [Changelog](CHANGELOG.md)
 
 PointPlay werkt zichzelf bij: nieuwe versies verschijnen vanzelf in de app.
 
