@@ -2,6 +2,10 @@
 
 Alle wijzigingen in PointPlay per versie, de nieuwste bovenaan.
 
+## 0.9.4 (25 oktober 2026)
+
+- PointPlay heeft een eigen website: [pointplay.r5mod.nl](https://pointplay.r5mod.nl). In Instellingen → Info vind je de link, en "door R5Mod" brengt je er ook heen.
+
 ## 0.9.3 (24 oktober 2026)
 
 - De volgende-knop in PointPlay speelt eerst het volgende verzoek uit de wachtrij, net als `!volgende`.
