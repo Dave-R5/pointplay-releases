@@ -2,6 +2,11 @@
 
 Alle wijzigingen in PointPlay per versie, de nieuwste bovenaan.
 
+## 0.9.5 (25 oktober 2026)
+
+- De venstertitel is nu "PointPlay by R5Mod".
+- "by R5Mod" bovenin de app is een link naar de website [pointplay.r5mod.nl](https://pointplay.r5mod.nl).
+
 ## 0.9.4 (25 oktober 2026)
 
 - PointPlay heeft een eigen website: [pointplay.r5mod.nl](https://pointplay.r5mod.nl). In Instellingen → Info vind je de link, en "door R5Mod" brengt je er ook heen.
