@@ -2,6 +2,12 @@
 
 Alle wijzigingen in PointPlay per versie, de nieuwste bovenaan.
 
+## 1.0.1 (26 oktober 2026)
+
+- Onder Instellingen → Info staat een knop "Get Premium" naar [r5mod.nl/account](https://r5mod.nl/account). Daar log je in en bekijk je je overzichten.
+- De installer en Windows noemen R5Mod als maker.
+- Berichten via het contactformulier komen nu binnen bij support@r5mod.nl.
+
 ## 1.0.0 (26 oktober 2026)
 
 - PointPlay heeft nu een gratis versie en Premium. Gratis: Point Muziek met verzoeken, wachtrij en ingebouwde speler, de chatcommando's `!volgende` en `!weiger`, 3 alerts en overlay alerts in de standaardstijl.
