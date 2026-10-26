@@ -6,7 +6,7 @@ Alle wijzigingen in PointPlay per versie, de nieuwste bovenaan.
 
 - Onder Instellingen → Info staat een knop "Get Premium" naar [r5mod.nl/account](https://r5mod.nl/account). Daar log je in en bekijk je je overzichten.
 - De installer en Windows noemen R5Mod als maker.
-- Berichten via het contactformulier komen nu binnen bij support@r5mod.nl.
+- Berichten via het contactformulier komen nu op één centraal adres binnen.
 
 ## 1.0.0 (26 oktober 2026)
 
