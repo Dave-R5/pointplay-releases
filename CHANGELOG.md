@@ -2,6 +2,12 @@
 
 Alle wijzigingen in PointPlay per versie, de nieuwste bovenaan.
 
+## 1.0.2 (26 oktober 2026)
+
+- Het tabblad "Overlay alerts" heet nu "Overlays". Bovenin kies je tussen **Visuals** (je alerts) en **OBS** (de overlay "Nu speelt").
+- De OBS-uitleg staat niet meer in de instellingen, maar onder Overlays → OBS, met een voorbeeld van de overlay.
+- Met Premium pas je de OBS-overlay aan: indeling (kaart, compact of staand), breedte, hoeken, kleuren en welke onderdelen je laat zien. Gratis gebruik je de standaardstijl.
+
 ## 1.0.1 (26 oktober 2026)
 
 - Onder Instellingen → Info staat een knop "Get Premium" naar [r5mod.nl/account](https://r5mod.nl/account). Daar log je in en bekijk je je overzichten.
