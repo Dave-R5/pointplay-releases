@@ -2,6 +2,11 @@
 
 Alle wijzigingen in PointPlay per versie, de nieuwste bovenaan.
 
+## 1.0.3 (26 oktober 2026)
+
+- Het voorbeeld onder Overlays → OBS schaalt mee, zodat je altijd de hele overlay ziet, ook bij een grote staande indeling.
+- De breedte en hoogte voor de browserbron in OBS kloppen nu precies met je overlay.
+
 ## 1.0.2 (26 oktober 2026)
 
 - Het tabblad "Overlay alerts" heet nu "Overlays". Bovenin kies je tussen **Visuals** (je alerts) en **OBS** (de overlay "Nu speelt").
