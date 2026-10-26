@@ -2,6 +2,13 @@
 
 Alle wijzigingen in PointPlay per versie, de nieuwste bovenaan.
 
+## 1.0.0 (26 oktober 2026)
+
+- PointPlay heeft nu een gratis versie en Premium. Gratis: Point Muziek met verzoeken, wachtrij en ingebouwde speler, de chatcommando's `!volgende` en `!weiger`, 3 alerts en overlay alerts in de standaardstijl.
+- Premium geeft onbeperkt alerts, een eigen plaatje, tekst en animatie per alert, geluiden zoeken via Freesound en voorrang bij support.
+- Premium ontgrendel je op [pointplay.r5mod.nl](https://pointplay.r5mod.nl) met je Twitch-account. PointPlay controleert de status zelf; zie Instellingen → Info.
+- Heb je zonder Premium meer dan 3 alerts, dan blijven ze bewaard. Alleen de eerste 3 werken; de rest staat uit op Twitch tot je Premium hebt. Eigen visuals blijven ook bewaard.
+
 ## 0.9.5 (25 oktober 2026)
 
 - De venstertitel is nu "PointPlay by R5Mod".
