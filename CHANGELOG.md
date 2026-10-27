@@ -2,6 +2,12 @@
 
 Alle wijzigingen in PointPlay per versie, de nieuwste bovenaan.
 
+## 1.0.4 (27 oktober 2026)
+
+- Geluiden zoeken werkt nu zonder account of sleutel. PointPlay zoekt in vrije geluiden van onder andere Freesound en Wikimedia (via Openverse). Bij elk resultaat zie je de bron en de licentie.
+- Heb je zelf een Freesound-sleutel, dan kun je die nog steeds invullen. PointPlay zoekt dan rechtstreeks in Freesound.
+- Een geluid of plaatje via een link toevoegen is nu een Premium-functie. Gratis gebruik je de bestanden uit je eigen map.
+
 ## 1.0.3 (26 oktober 2026)
 
 - Het voorbeeld onder Overlays → OBS schaalt mee, zodat je altijd de hele overlay ziet, ook bij een grote staande indeling.
